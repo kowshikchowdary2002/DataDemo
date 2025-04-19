@@ -1,0 +1,102 @@
+match_id,inning,batting_team,bowling_team,m_over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+1,1,RCB,CSK,1,1,Virat Kohli,ABD,Bumrah,0,0,0,0,0,4,0,4,0,0,0
+1,1,RCB,CSK,1,2,Virat Kohli,ABD,Bumrah,0,0,0,0,0,1,0,1,0,0,0
+1,1,RCB,CSK,1,3,Virat Kohli,ABD,Bumrah,0,0,0,0,0,0,0,0,Virat Kohli,bowled,Chahar
+1,1,RCB,CSK,1,4,ABD,Maxwell,Bumrah,0,0,0,0,0,6,0,6,0,0,0
+1,1,RCB,CSK,1,5,ABD,Maxwell,Bumrah,0,0,0,0,0,2,0,2,0,0,0
+1,1,RCB,CSK,1,6,ABD,Maxwell,Bumrah,0,0,0,0,0,0,0,0,ABD,caught,Jadeja
+1,2,CSK,RCB,1,1,Conway,Gaikwad,Chahal,0,0,0,0,0,4,0,4,0,0,0
+1,2,CSK,RCB,1,2,Conway,Gaikwad,Chahal,0,0,0,0,0,1,0,1,0,0,0
+1,2,CSK,RCB,1,3,Gaikwad,Conway,Chahal,0,0,0,0,0,0,0,0,Gaikwad,lbw,Chahal
+1,2,CSK,RCB,1,4,Dhoni,Conway,Chahal,0,0,0,0,0,6,0,6,0,0,0
+1,2,CSK,RCB,1,5,Dhoni,Conway,Chahal,0,0,0,0,0,2,0,2,0,0,0
+1,2,CSK,RCB,1,6,Dhoni,Conway,Chahal,0,0,0,0,0,1,0,1,0,0,0
+
+2,1,CSK,KKR,1,1,Ruturaj,Dube,Narine,0,0,0,0,0,4,0,4,0,0,0
+2,1,CSK,KKR,1,2,Ruturaj,Dube,Narine,0,0,0,0,0,0,0,0,Ruturaj,bowled,Narine
+2,1,CSK,KKR,1,3,Dube,Dhoni,Narine,0,0,0,0,0,6,0,6,0,0,0
+2,1,CSK,KKR,1,4,Dube,Dhoni,Narine,0,0,0,0,0,1,0,1,0,0,0
+2,1,CSK,KKR,1,5,Dhoni,Dube,Narine,0,0,0,0,0,0,0,0,Dhoni,caught,Iyer
+2,1,CSK,KKR,1,6,Conway,Dube,Narine,0,0,0,0,0,4,0,4,0,0,0
+2,2,KKR,CSK,1,1,Rana,Iyer,Chahar,0,0,0,0,0,1,0,1,0,0,0
+2,2,KKR,CSK,1,2,Rana,Iyer,Chahar,0,0,0,0,0,2,0,2,0,0,0
+2,2,KKR,CSK,1,3,Iyer,Rana,Chahar,0,0,0,0,0,0,0,0,Iyer,lbw,Chahar
+2,2,KKR,CSK,1,4,Russell,Rana,Chahar,0,0,0,0,0,6,0,6,0,0,0
+2,2,KKR,CSK,1,5,Russell,Rana,Chahar,0,0,0,0,0,4,0,4,0,0,0
+2,2,KKR,CSK,1,6,Russell,Rana,Chahar,0,0,0,0,0,0,0,0,Russell,caught,Dhoni
+
+
+3,1,MI,KKR,1,1,Rohit,Ishan,Varun,0,0,0,0,0,1,0,1,0,0,0
+3,1,MI,KKR,1,2,Rohit,Ishan,Varun,0,0,0,0,0,2,0,2,0,0,0
+3,1,MI,KKR,1,3,Rohit,Ishan,Varun,0,0,0,0,0,6,0,6,0,0,0
+3,1,MI,KKR,1,4,Ishan,Rohit,Varun,0,0,0,0,0,0,0,0,0,0,0
+3,1,MI,KKR,1,5,SKY,Rohit,Varun,0,0,0,0,0,4,0,4,0,0,0
+3,1,MI,KKR,1,6,SKY,Rohit,Varun,0,0,0,0,0,2,0,2,0,0,0
+3,2,KKR,MI,1,1,Iyer,Rana,Bumrah,0,0,0,0,0,2,0,2,0,0,0
+3,2,KKR,MI,1,2,Iyer,Rana,Bumrah,0,0,0,0,0,6,0,6,0,0,0
+3,2,KKR,MI,1,3,Iyer,Rana,Bumrah,0,0,0,0,0,4,0,4,0,0,0
+3,2,KKR,MI,1,4,Iyer,Rana,Bumrah,0,0,0,0,0,0,0,0,0,0,0
+3,2,KKR,MI,1,5,Rana,Russell,Bumrah,0,0,0,0,0,4,0,4,0,0,0
+3,2,KKR,MI,1,6,Rana,Russell,Bumrah,0,0,0,0,0,1,0,1,0,0,0
+4,1,CSK,RCB,1,1,Gaikwad,Conway,Siraj,0,0,0,0,0,4,0,4,0,0,0
+4,1,CSK,RCB,1,2,Gaikwad,Conway,Siraj,0,0,0,0,0,6,0,6,0,0,0
+4,1,CSK,RCB,1,3,Gaikwad,Conway,Siraj,0,0,0,0,0,0,0,0,0,0,0
+4,1,CSK,RCB,1,4,Conway,Dube,Siraj,0,0,0,0,0,1,0,1,0,0,0
+4,1,CSK,RCB,1,5,Dube,Conway,Siraj,0,0,0,0,0,4,0,4,0,0,0
+4,1,CSK,RCB,1,6,Dube,Conway,Siraj,0,0,0,0,0,0,0,0,0,0,0
+4,2,RCB,CSK,1,1,Virat Kohli,ABD,Chahar,0,0,0,0,0,4,0,4,0,0,0
+4,2,RCB,CSK,1,2,Virat Kohli,ABD,Chahar,0,0,0,0,0,6,0,6,0,0,0
+4,2,RCB,CSK,1,3,Virat Kohli,ABD,Chahar,0,0,0,0,0,0,0,0,0,0,0
+4,2,RCB,CSK,1,4,ABD,Maxwell,Chahar,0,0,0,0,0,2,0,2,0,0,0
+4,2,RCB,CSK,1,5,ABD,Maxwell,Chahar,0,0,0,0,0,4,0,4,0,0,0
+4,2,RCB,CSK,1,6,ABD,Maxwell,Chahar,0,0,0,0,0,1,0,1,0,0,0
+5,1,RCB,MI,1,1,Virat Kohli,Faf,Bumrah,0,0,0,0,0,6,0,6,0,0,0
+5,1,RCB,MI,1,2,Virat Kohli,Faf,Bumrah,0,0,0,0,0,2,0,2,0,0,0
+5,1,RCB,MI,1,3,Virat Kohli,Faf,Bumrah,0,0,0,0,0,1,0,1,0,0,0
+5,1,RCB,MI,1,4,Faf,Virat Kohli,Bumrah,0,0,0,0,0,4,0,4,0,0,0
+5,1,RCB,MI,1,5,Faf,Virat Kohli,Bumrah,0,0,0,0,0,6,0,6,0,0,0
+5,1,RCB,MI,1,6,Faf,Virat Kohli,Bumrah,0,0,0,0,0,0,0,0,0,0,0
+5,2,MI,RCB,1,1,Rohit,Ishan,Harshal,0,0,0,0,0,4,0,4,0,0,0
+5,2,MI,RCB,1,2,Rohit,Ishan,Harshal,0,0,0,0,0,1,0,1,0,0,0
+5,2,MI,RCB,1,3,Ishan,Rohit,Harshal,0,0,0,0,0,6,0,6,0,0,0
+5,2,MI,RCB,1,4,Ishan,Rohit,Harshal,0,0,0,0,0,2,0,2,0,0,0
+5,2,MI,RCB,1,5,Ishan,Rohit,Harshal,0,0,0,0,0,0,0,0,0,0,0
+5,2,MI,RCB,1,6,SKY,Rohit,Harshal,0,0,0,0,0,4,0,4,0,0,0
+6,1,RCB,CSK,1,1,ABD,Virat Kohli,Jadeja,0,0,0,0,0,1,0,1,0,0,0
+6,1,RCB,CSK,1,2,ABD,Virat Kohli,Jadeja,0,0,0,0,0,6,0,6,0,0,0
+6,1,RCB,CSK,1,3,ABD,Virat Kohli,Jadeja,0,0,0,0,0,2,0,2,0,0,0
+6,1,RCB,CSK,1,4,Maxwell,Virat Kohli,Jadeja,0,0,0,0,0,4,0,4,0,0,0
+6,1,RCB,CSK,1,5,Maxwell,Virat Kohli,Jadeja,0,0,0,0,0,0,0,0,0,0,0
+6,1,RCB,CSK,1,6,Maxwell,Virat Kohli,Jadeja,0,0,0,0,0,1,0,1,0,0,0
+6,2,CSK,RCB,1,1,Conway,Dube,Harshal,0,0,0,0,0,2,0,2,0,0,0
+6,2,CSK,RCB,1,2,Conway,Dube,Harshal,0,0,0,0,0,6,0,6,0,0,0
+6,2,CSK,RCB,1,3,Conway,Dube,Harshal,0,0,0,0,0,0,0,0,0,0,0
+6,2,CSK,RCB,1,4,Dube,Dhoni,Harshal,0,0,0,0,0,1,0,1,0,0,0
+6,2,CSK,RCB,1,5,Dube,Dhoni,Harshal,0,0,0,0,0,6,0,6,0,0,0
+6,2,CSK,RCB,1,6,Dube,Dhoni,Harshal,0,0,0,0,0,4,0,4,0,0,0
+
+7,1,KKR,MI,1,1,Rana,Iyer,Arjun,0,0,0,0,0,2,0,2,0,0,0
+7,1,KKR,MI,1,2,Rana,Iyer,Arjun,0,0,0,0,0,4,0,4,0,0,0
+7,1,KKR,MI,1,3,Rana,Iyer,Arjun,0,0,0,0,0,0,0,0,Rana,bowled,Arjun
+7,1,KKR,MI,1,4,Iyer,Russell,Arjun,0,0,0,0,0,6,0,6,0,0,0
+7,1,KKR,MI,1,5,Iyer,Russell,Arjun,0,0,0,0,0,2,0,2,0,0,0
+7,1,KKR,MI,1,6,Iyer,Russell,Arjun,0,0,0,0,0,1,0,1,0,0,0
+7,2,MI,KKR,1,1,Rohit,Ishan,Narine,0,0,0,0,0,4,0,4,0,0,0
+7,2,MI,KKR,1,2,Rohit,Ishan,Narine,0,0,0,0,0,1,0,1,0,0,0
+7,2,MI,KKR,1,3,Ishan,Rohit,Narine,0,0,0,0,0,6,0,6,0,0,0
+7,2,MI,KKR,1,4,Ishan,Rohit,Narine,0,0,0,0,0,2,0,2,0,0,0
+7,2,MI,KKR,1,5,Ishan,Rohit,Narine,0,0,0,0,0,0,0,0,Ishan,caught,Iyer
+7,2,MI,KKR,1,6,SKY,Rohit,Narine,0,0,0,0,0,4,0,4,0,0,0
+
+8,1,KKR,CSK,1,1,Iyer,Rana,Chahar,0,0,0,0,0,1,0,1,0,0,0
+8,1,KKR,CSK,1,2,Iyer,Rana,Chahar,0,0,0,0,0,6,0,6,0,0,0
+8,1,KKR,CSK,1,3,Iyer,Rana,Chahar,0,0,0,0,0,2,0,2,0,0,0
+8,1,KKR,CSK,1,4,Rana,Iyer,Chahar,0,0,0,0,0,0,0,0,Rana,bowled,Jadeja
+8,1,KKR,CSK,1,5,Iyer,Russell,Chahar,0,0,0,0,0,4,0,4,0,0,0
+8,1,KKR,CSK,1,6,Iyer,Russell,Chahar,0,0,0,0,0,1,0,1,0,0,0
+8,2,CSK,KKR,1,1,Gaikwad,Conway,Varun,0,0,0,0,0,2,0,2,0,0,0
+8,2,CSK,KKR,1,2,Gaikwad,Conway,Varun,0,0,0,0,0,6,0,6,0,0,0
+8,2,CSK,KKR,1,3,Gaikwad,Conway,Varun,0,0,0,0,0,0,0,0,Gaikwad,bowled,Narine
+8,2,CSK,KKR,1,4,Conway,Dube,Varun,0,0,0,0,0,1,0,1,0,0,0
+8,2,CSK,KKR,1,5,Dube,Conway,Varun,0,0,0,0,0,2,0,2,0,0,0
+8,2,CSK,KKR,1,6,Dube,Conway,Varun,0,0,0,0,0,0,0,0,Dube,lbw,Varun

@@ -1,0 +1,48 @@
+sid,team,player,role,nationality,type_of_player,head_coach,bowling_coach,batting_coach,owner,home_ground
+1,CSK,MS Dhoni,Wicket-Keeper,India,Domestic,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Ruturaj Gaikwad,Batsman,India,Domestic,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Devon Conway,Batsman,New Zealand,Overseas,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Moeen Ali,All-Rounder,England,Overseas,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Deepak Chahar,Bowler,India,Domestic,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Ravindra Jadeja,All-Rounder,India,Domestic,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Ben Stokes,All-Rounder,England,Overseas,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Shivam Dube,All-Rounder,India,Domestic,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Matheesha Pathirana,Bowler,Sri Lanka,Overseas,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Maheesh Theekshana,Bowler,Sri Lanka,Overseas,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+1,CSK,Ajinkya Rahane,Batsman,India,Domestic,Stephen Fleming,Dwayne Bravo,Mike Hussey,India Cements,MA Chidambaram Stadium
+
+2,MI,Rohit Sharma,Batsman,India,Domestic,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Ishan Kishan,Wicket-Keeper,India,Domestic,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Suryakumar Yadav,Batsman,India,Domestic,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Cameron Green,All-Rounder,Australia,Overseas,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Tim David,Batsman,Australia,Overseas,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Jasprit Bumrah,Bowler,India,Domestic,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Jofra Archer,Bowler,England,Overseas,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Arjun Tendulkar,All-Rounder,India,Domestic,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Piyush Chawla,Bowler,India,Domestic,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Nehal Wadhera,Batsman,India,Domestic,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+2,MI,Tilak Varma,Batsman,India,Domestic,Mark Boucher,Lasith Malinga,Kieron Pollard,Indiawin Sports,Wankhede Stadium
+
+3,RCB,Virat Kohli,Batsman,India,Domestic,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Mohammed Siraj,Bowler,India,Domestic,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Faf du Plessis,Batsman,South Africa,Overseas,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Glenn Maxwell,All-Rounder,Australia,Overseas,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Dinesh Karthik,Wicket-Keeper,India,Domestic,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Rajat Patidar,Batsman,India,Domestic,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Michael Bracewell,All-Rounder,New Zealand,Overseas,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Harshal Patel,Bowler,India,Domestic,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Karn Sharma,Bowler,India,Domestic,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Josh Hazlewood,Bowler,Australia,Overseas,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+3,RCB,Shahbaz Ahmed,All-Rounder,India,Domestic,Andy Flower,Adam Griffith,Sridharan Sriram,United Spirits,M. Chinnaswamy Stadium
+
+4,KKR,Shreyas Iyer,Batsman,India,Domestic,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Andre Russell,All-Rounder,West Indies,Overseas,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Sunil Narine,All-Rounder,West Indies,Overseas,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Rinku Singh,Batsman,India,Domestic,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Venkatesh Iyer,All-Rounder,India,Domestic,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Nitish Rana,Batsman,India,Domestic,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Lockie Ferguson,Bowler,New Zealand,Overseas,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Varun Chakravarthy,Bowler,India,Domestic,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Umesh Yadav,Bowler,India,Domestic,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Litton Das,Wicket-Keeper,Bangladesh,Overseas,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens
+4,KKR,Shardul Thakur,All-Rounder,India,Domestic,Chandrakant Pandit,Bharat Arun,Abhishek Nayar,Red Chillies Entertainment,Eden Gardens

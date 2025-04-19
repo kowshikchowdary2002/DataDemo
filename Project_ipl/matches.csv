@@ -1,0 +1,9 @@
+team1s1,team2s2,id,season,city,date,team1,team2,toss_winner,toss_decision,result,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
+2,3,1,2023,Mumbai,2023-04-01,MI,RCB,MI,bat,normal,RCB,0,6,Virat Kohli,Wankhede Stadium,Nitin Menon,Anil Chaudhary
+1,4,2,2023,Chennai,2023-04-03,CSK,KKR,CSK,bat,normal,CSK,25,0,MS Dhoni,MA Chidambaram Stadium,Rod Tucker,Kumar Dharmasena
+2,4,3,2023,Mumbai,2023-04-05,MI,KKR,KKR,field,normal,KKR,0,4,Shreyas Iyer,Wankhede Stadium,Chris Gaffaney,Paul Reiffel
+1,3,4,2023,Chennai,2023-04-07,CSK,RCB,RCB,field,normal,RCB,0,5,Virat Kohli,MA Chidambaram Stadium,Marais Erasmus,Bruce Oxenford
+3,2,5,2023,Bangalore,2023-04-09,RCB,MI,RCB,bat,normal,RCB,15,0,Virat Kohli,M. Chinnaswamy Stadium,Michael Gough,Anil Chaudhary
+3,1,6,2023,Chennai,2023-04-11,RCB,CSK,CSK,field,normal,CSK,0,3,Ravindra Jadeja,MA Chidambaram Stadium,Richard Illingworth,Rod Tucker
+4,2,7,2023,Kolkata,2023-04-13,KKR,MI,MI,field,normal,MI,0,7,Rohit Sharma,Eden Gardens,Nitin Menon,Chris Gaffaney
+4,1,8,2023,Kolkata,2023-04-15,KKR,CSK,KKR,bat,normal,KKR,18,0,Nitish Rana,Eden Gardens,Paul Reiffel,Bruce Oxenford
