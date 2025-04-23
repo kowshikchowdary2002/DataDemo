@@ -1,0 +1,23 @@
+gcloud init --- to get the data from the gcp
+
+---------
+
+1. Create a new Bucket  - 
+gsutil mb gs://kowshik-bucket/
+
+2. Upload data file in a folder called (any name ) 
+gsutil cp C:/Users/msaik/programs/appdata/0_input.csv gs://kowshik-bucket/input/
+
+3. Upload Python script file to gcp 
+gsutil cp C:/Users/msaik/programs/appdata/0_process_csv.py gs://kowshik-bucket/scripts/
+
+4. Create a new cluster - 
+gcloud dataproc clusters create training-cluster --region=us-central1 --zone=us-central1-a --single-node 
+    --master-machine-type=n1-standard-2 --image-version=2.0-debian10
+
+5. Execute spark we are assigning the 
+gcloud dataproc jobs submit pyspark gs://kowshik-bucket/scripts/0_process_csv.py --cluster=training-cluster --region=us-central1
+
+
+6. Check the output  -to check the output from the terminal
+gsutil cp -r gs://kowshik-bucket/output/processed/part-00000-46c304ee-a443-438b-a1b5-c43daac31d93-c000.csv c:/
