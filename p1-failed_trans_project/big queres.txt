@@ -1,0 +1,10 @@
+-- Create DeptInfo table in BigQuery from MySQL
+CREATE OR REPLACE TABLE mullaputi-dataproc.bankDS.failed_transactions AS
+SELECT *
+FROM EXTERNAL_QUERY(
+  "mullaputi-dataproc.us-central1.sqltobig",
+  "SELECT * FROM transaction_db.failed_transactions"
+);
+
+
+
