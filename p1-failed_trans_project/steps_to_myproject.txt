@@ -1,0 +1,48 @@
+step-1
+
+gsutil mb gs://kowshikbank-bucket/
+
+
+step-2
+
+gsutil cp C:/Users/msaik/Desktop/p1-failed_trans_project/branches_info/*.csv gs://kowshikbank-bucket/transactions/
+
+step-3
+
+gsutil cp C:/Users/msaik/Desktop/p1-failed_trans_project/clean_and_mergeData.py gs://kowshikbank-bucket/script1/
+
+
+step-4
+
+
+gcloud dataproc clusters create bank-cluster --region=us-central1 --zone=us-central1-a --single-node --master-machine-type=n1-standard-2 --image-version=2.0-debian10 
+
+step-5
+
+gcloud dataproc jobs submit pyspark gs://kowshikbank-bucket/script1/clean_and_mergeData.py --cluster=bank-cluster --region=us-central1
+
+
+--after cluster creation MySQL in stance need to be create
+--user 
+--data base
+--cluster external ip to MySQL instance (add network)
+
+ 
+
+step-6
+
+gsutil cp C:/Users/msaik/Desktop/p1-failed_trans_project/fetch_failed_trans.py gs://kowshikbank-bucket/script1/  
+
+step-7
+
+gsutil cp C:/Users/msaik/Downloads/mysql-connector-j-8.3.0.jar gs://kowshikbank-bucket/jar/ 
+
+step-8
+
+gcloud dataproc jobs submit pyspark gs://kowshikbank-bucket/script1/fetch_failed_trans.py --cluster=bank-cluster --region=us-central1 --jars=gs://kowshikbank-bucket/jar/mysql-connector-j-8.3.0.jar --properties=spark.driver.memory=4g,spark.executor.memory=4g
+
+-- in big Query create dataset(bankDS)
+-- add connection through MySQL instance and set IAM roles to the created connection 
+-- then in sql query execute the query to load the data
+
+
